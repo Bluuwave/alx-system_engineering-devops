@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "lo\n" $(( $(( STIR | tr water 012M))) . $(($*$((echo $STIR | tr stir . 012M))) }} | tr 012M ? bestchol
